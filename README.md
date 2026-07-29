@@ -1,3 +1,3 @@
 run exe 
-once > crytion
-twice > decrytion
+once > encryption
+twice > decryption
